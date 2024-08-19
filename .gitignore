@@ -8,7 +8,12 @@
 *.elf
 
 *.crf
-
+*.sct
+*.axf
+*.htm
+*.lnp
+*.dep
+*.uvguix.*
 # Linker output
 *.ilk
 *.map
